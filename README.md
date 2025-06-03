@@ -43,5 +43,4 @@ This project focuses on classifying pediatric kidney tumors using magnetic reson
 
 Include a representative image or a montage of MRI samples here:
 ```bash
-# Replace the image path with your actual image
-![MRI Dataset Sample](./output.png)
+![MRI Dataset Sample](output.png)
