@@ -1,4 +1,5 @@
 # Kidney Tumor Classification using Data Distribution Extracted by VAE
+![Dataset Sample](./output.png)
 
 
 ## 🧠 Project Overview
@@ -43,4 +44,4 @@ This project focuses on classifying pediatric kidney tumors using magnetic reson
 
 Include a representative image or a montage of MRI samples here:
 ```bash
-![MRI Dataset Sample](output.png)
+![Dataset Sample](./output.png)
